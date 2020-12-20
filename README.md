@@ -1,1 +1,2 @@
-# c-22
+# collisionAlgorithm
+Algorithm to detect collision between two objects
